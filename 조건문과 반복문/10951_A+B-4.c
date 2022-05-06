@@ -1,11 +1,11 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int main()
 {
 	int A, B, i;
-	while(scanf("%d %d", &A, &B) == 2)//scanfµµ ¼ıÀÚ¸¦ ¹İÈ¯ÇÔ. ¿©±â¼­ A,BµÎ°³ ÀÌ±â¿¡ 2¸¦ ¹İÈ¯ÇÑ´Ù.
+	while(scanf("%d %d", &A, &B) == 2)//scanfë„ ìˆ«ìë¥¼ ë°˜í™˜í•¨. ì—¬ê¸°ì„œ A,Bë‘ê°œ ì´ê¸°ì— 2ë¥¼ ë°˜í™˜í•œë‹¤.
 	{
 		printf("%d\n", A + B);
 	}
 
 	return 0;
-}*/
+}
