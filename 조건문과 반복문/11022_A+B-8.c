@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int main()
 {
 	int T, i, A, B;
@@ -12,4 +12,4 @@ int main()
 
 	return 0;
 
-}*/
+}
