@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int main()
 {
 	int A, B;
@@ -13,4 +13,4 @@ int main()
 	}
 
 	return 0;
-}*/
+}
