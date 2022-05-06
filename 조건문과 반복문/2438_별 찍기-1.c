@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int main()
 {
 	int input, i, j;
@@ -15,4 +15,3 @@ int main()
 		printf("\n");
 	}
 }
-*/

@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int function1(int v, int w)
 {
 	if (v > 0 && w > 0)
@@ -18,4 +18,4 @@ int main()
 	scanf("%d %d", &x, &y);
 
 	printf("%d", function1(x, y));
-}*/
+}

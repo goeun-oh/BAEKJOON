@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 int main()
 {
 	int A, B, C;
@@ -15,4 +15,3 @@ int main()
 
 	printf("%d %d", A, B);
 }
-*/
