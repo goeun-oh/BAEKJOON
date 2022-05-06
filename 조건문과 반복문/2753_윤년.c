@@ -1,4 +1,3 @@
-/*
 #include<stdio.h>
 
 int Years(int n);
@@ -16,4 +15,4 @@ int main()
 int Years(int n)
 {
 	return ((n % 4 == 0 && n % 100 != 0 || n % 400 == 0) ? 1 : 0);
-}*/
+}
