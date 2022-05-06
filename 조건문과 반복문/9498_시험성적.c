@@ -1,7 +1,6 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
-*/
-/*
+
 int main()
 {
 	int input;
@@ -28,4 +27,4 @@ int main()
 		printf("F");
 	}
 	return 0;
-}*/
+}
