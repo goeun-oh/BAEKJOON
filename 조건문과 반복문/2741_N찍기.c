@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int main()
 {
 	int i, N;
@@ -10,4 +10,4 @@ int main()
 		printf("%d\n", i);
 	}
 	return 0;
-}*/
+}
