@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 #define string 9
 
 int main()
@@ -21,4 +21,4 @@ int main()
 	}
 	printf("%d\n", max);
 	printf("%d", max_number);
-}
+}*/

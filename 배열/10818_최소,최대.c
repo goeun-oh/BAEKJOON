@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 int main()
 {
 	int N, i, A;
@@ -18,4 +18,4 @@ int main()
 	}
 
 	printf("%d %d", min, max);
-}
+}*/

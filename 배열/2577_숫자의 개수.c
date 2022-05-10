@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 int main()
 {
 	int A, B, C, mult, number;
@@ -21,4 +21,4 @@ int main()
 	{
 		printf("%d\n", counts[i]);
 	}
-}
+}*/
