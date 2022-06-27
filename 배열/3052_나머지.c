@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int main()
 {
 	int arr1[10] = { 0, };
@@ -33,4 +33,4 @@ int main()
 	}
 
 	printf("%d", count);
-}*/
+}
